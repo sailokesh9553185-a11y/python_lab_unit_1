@@ -1,1 +1,10 @@
+a = float(input("Enter first number (a): "))
+b = float(input("Enter second number (b): "))
 
+print("\n--- Relational Operators Demonstration ---")
+print(f"{a} > {b}  is {a > b}")
+print(f"{a} < {b}  is {a < b}")
+print(f"{a} == {b} is {a == b}")
+print(f"{a} != {b} is {a != b}")
+print(f"{a} >= {b} is {a >= b}")
+print(f"{a} <= {b} is {a <= b}")
